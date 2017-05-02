@@ -12,5 +12,5 @@ int main()
   
   cout << "Hello World, My name is " << name <<endl; 
 
-  endl;
+  return 0;
 }
